@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Mon Sep 03 19:46:29 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0139-8e87-35be-00000225bcd8 
+on database directory C:\Users\bwilson\pledgesDatabase  with class loader sun.misc.Launcher$AppClassLoader@52c8c6d9 
+Loaded from file:/C:/Dropbox/NetBeansProjects/Pledges/dist/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_06-b24
+user.dir=C:\Dropbox\NetBeansProjects\Pledges\dist
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
